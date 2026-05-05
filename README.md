@@ -5,13 +5,6 @@
 
 ---
 
-## 🧠 About Me
-
-
-Name: John
-Field: Telecommunication Engineering
-Learning: Scalable architectures & real-world systems
-
 
 ## 🛠 Tech Stack
 
@@ -31,9 +24,6 @@ Learning: Scalable architectures & real-world systems
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
-## 📈 GitHub Stats
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JOHNELLY-001)
 
 ## 🏅 Achievements & Badges
 
