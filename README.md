@@ -1,6 +1,6 @@
 <!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+John+%F0%9F%91%8B;Telecom+Engineering+Student;AI+%7C+IoT+%7C+Backend+Enthusiast;Building+Smart+Systems+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+johnelly+%F0%9F%91%8B;Telecom+Engineer;AI+%7C+IoT+%7C+Tech+Enthusiast;Building+Smart+Systems+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -10,7 +10,6 @@
 
 Name: John
 Field: Telecommunication Engineering
-Focus: AI, IoT, Backend Systems
 Learning: Scalable architectures & real-world systems
 
 
@@ -35,3 +34,24 @@ Learning: Scalable architectures & real-world systems
 ## 📈 GitHub Stats
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JOHNELLY-001)
+
+## 🏅 Achievements & Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=JOHNELLY-001\&color=blue\&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/JOHNELLY-001?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/JOHNELLY-001?style=flat-square)
+
+![Commit Activity](https://img.shields.io/github/commit-activity/m/JOHNELLY-001/JOHNELLY-001?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/JOHNELLY-001/JOHNELLY-001?style=flat-square)
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JOHNELLY-001&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=JOHNELLY-001&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JOHNELLY-001&theme=tokyo-night" />
+</p>
