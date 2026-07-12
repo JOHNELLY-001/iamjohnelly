@@ -34,9 +34,13 @@
 ![Last Commit](https://img.shields.io/github/last-commit/JOHNELLY-001/JOHNELLY-001?style=flat-square)
 
 ## BUILDING ...
-<p align="center" style="font-bold">
-  <a href="https://ecotrack.co.tz">E C O T R A C K</a>
-</p>
+<div align="center">
+
+# 🌿 **[ECOTRACK](https://ecotrack.co.tz)**
+
+### Environmental Intelligence • Sustainability • Innovation
+
+</div>
 
 
 
